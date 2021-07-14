@@ -8,18 +8,9 @@ Consultar dentro de la tabla tConfigNube se encuentre configurado el campo:
 
 * cIDTienda 
 
-Habilitar Check-It!
-
-* cBDAppCheckIt
-
 ### Comandos especiales ###
 
-* Habilitar Preferencias: CTRL + ALT + SHIFT + F6
-
-Check-It!
-
-* Parar Sincronización: ALT + SHIFT + F
-* Iniciar Sincronización: ALT + SHIFT + A
+* Habilitar Preferencias y Sincronización Forzada: CTRL + ALT + SHIFT + F6
 
 ### Propiedades de la Conexión ###
 
@@ -42,4 +33,19 @@ Check-It!
 
 ### Errores ###
 
-* Se generan automaticamente en la misma ubicación dentro de la carpeta Error
+* Se generan automaticamente en la misma ubicación un archivo TXT dentro de la carpeta Error
+
+## Check-It! ##
+
+SQL Server consultar dentro de la tabla tConfigNube se encuentre configurado el campo:
+
+* cBDAppCheckIt
+
+Comandos especiales:
+
+* Parar Sincronización: ALT + SHIFT + F
+* Iniciar Sincronización: ALT + SHIFT + A
+
+Errores:
+
+* Se genera automaticamente en la misma ubicación un archivo JSON llamado output
