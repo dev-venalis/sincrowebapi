@@ -1,29 +1,45 @@
 # README #
 
-This README would normally document whatever steps are necessary to get your application up and running.
+Este README se encuentran documentados los pasos necesarios para que la aplicación esté en funcionamiento. 
 
-### What is this repository for? ###
+### Configuración dentro de SQL Server ###
 
-* Quick summary
-* Version
-* [Learn Markdown](https://bitbucket.org/tutorials/markdowndemo)
+Consultar dentro de la tabla tConfigNube se encuentre configurado el campo:
 
-### How do I get set up? ###
+* cIDTienda 
 
-* Summary of set up
-* Configuration
-* Dependencies
-* Database configuration
-* How to run tests
-* Deployment instructions
+Habilitar Check-It!
 
-### Contribution guidelines ###
+* cBDAppCheckIt
 
-* Writing tests
-* Code review
-* Other guidelines
+### Comandos especiales ###
 
-### Who do I talk to? ###
+* Habilitar Preferencias: CTRL + ALT + SHIFT + F6
 
-* Repo owner or admin
-* Other community or team contact
+Check-It!
+
+* Parar Sincronización: ALT + SHIFT + F
+* Iniciar Sincronización: ALT + SHIFT + A
+
+### Propiedades de la Conexión ###
+
+* HOST: Nombre del servidor
+* DATABASE: Nombre de la base de datos
+* USERNAME: Nombre del usuario de login
+* PASSWORD: Contrase del usuario de login
+
+### API REST ###
+
+* URL: Dirección donde se encuentra alojado el servicio
+
+### Tiempo de Sincronización ###
+
+* Intervalo (segundos)
+
+### Preferencias ###
+
+* Ejecutar aplicación cuando Windows inicie
+
+### Errores ###
+
+* Se generan automaticamente en la misma ubicación dentro de la carpeta Error
