@@ -10,7 +10,7 @@ Consultar dentro de la tabla tConfigNube se encuentre configurado el campo:
 
 ### Comandos especiales ###
 
-* Habilitar Preferencias y Sincronización Forzada: CTRL + ALT + SHIFT + F6
+* Habilitar Preferencias y Sincronización Forzada: CTRL + ALT + J
 
 ### Propiedades de la Conexión ###
 
@@ -34,18 +34,3 @@ Consultar dentro de la tabla tConfigNube se encuentre configurado el campo:
 ### Errores ###
 
 * Se generan automaticamente en la misma ubicación un archivo TXT dentro de la carpeta Error
-
-## Check-It! ##
-
-SQL Server consultar dentro de la tabla tConfigNube se encuentre configurado el campo:
-
-* cBDAppCheckIt
-
-Comandos especiales:
-
-* Parar Sincronización: ALT + SHIFT + F
-* Iniciar Sincronización: ALT + SHIFT + A
-
-Errores:
-
-* Se genera automaticamente en la misma ubicación un archivo JSON llamado output
