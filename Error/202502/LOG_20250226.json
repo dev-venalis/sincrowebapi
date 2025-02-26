@@ -1,0 +1,9 @@
+{
+  "data": [
+    {
+      "timestamp": "2025-02-26 11:44:28",
+      "function": "ReadDeskRemote | MongoDB",
+      "message": "No se puede establecer una conexi\u00F3n ya que el equipo de destino deneg\u00F3 expresamente dicha conexi\u00F3n. (localhost:3100)"
+    }
+  ]
+}
