@@ -9,13 +9,13 @@
       "Shankro/1.0.0": {
         "dependencies": {
           "AutoMapper": "14.0.0",
-          "Microsoft.EntityFrameworkCore.SqlServer": "8.0.14",
+          "Microsoft.EntityFrameworkCore.SqlServer": "8.0.19",
           "Microsoft.Extensions.Hosting": "8.0.1",
           "Newtonsoft.Json": "13.0.3",
           "POSBackend.DAL": "1.0.0",
           "POSBackend.Model": "1.0.0",
           "RestSharp": "112.1.0",
-          "System.Drawing.Common": "8.0.14"
+          "System.Drawing.Common": "8.0.19"
         },
         "runtime": {
           "Shankro.dll": {}
@@ -137,51 +137,51 @@
           }
         }
       },
-      "Microsoft.EntityFrameworkCore/8.0.14": {
+      "Microsoft.EntityFrameworkCore/8.0.19": {
         "dependencies": {
-          "Microsoft.EntityFrameworkCore.Abstractions": "8.0.14",
-          "Microsoft.EntityFrameworkCore.Analyzers": "8.0.14",
+          "Microsoft.EntityFrameworkCore.Abstractions": "8.0.19",
+          "Microsoft.EntityFrameworkCore.Analyzers": "8.0.19",
           "Microsoft.Extensions.Caching.Memory": "8.0.1",
           "Microsoft.Extensions.Logging": "8.0.1"
         },
         "runtime": {
           "lib/net8.0/Microsoft.EntityFrameworkCore.dll": {
-            "assemblyVersion": "8.0.14.0",
-            "fileVersion": "8.0.1425.11206"
+            "assemblyVersion": "8.0.19.0",
+            "fileVersion": "8.0.1925.36903"
           }
         }
       },
-      "Microsoft.EntityFrameworkCore.Abstractions/8.0.14": {
+      "Microsoft.EntityFrameworkCore.Abstractions/8.0.19": {
         "runtime": {
           "lib/net8.0/Microsoft.EntityFrameworkCore.Abstractions.dll": {
-            "assemblyVersion": "8.0.14.0",
-            "fileVersion": "8.0.1425.11206"
+            "assemblyVersion": "8.0.19.0",
+            "fileVersion": "8.0.1925.36903"
           }
         }
       },
-      "Microsoft.EntityFrameworkCore.Analyzers/8.0.14": {},
-      "Microsoft.EntityFrameworkCore.Relational/8.0.14": {
+      "Microsoft.EntityFrameworkCore.Analyzers/8.0.19": {},
+      "Microsoft.EntityFrameworkCore.Relational/8.0.19": {
         "dependencies": {
-          "Microsoft.EntityFrameworkCore": "8.0.14",
+          "Microsoft.EntityFrameworkCore": "8.0.19",
           "Microsoft.Extensions.Configuration.Abstractions": "8.0.0"
         },
         "runtime": {
           "lib/net8.0/Microsoft.EntityFrameworkCore.Relational.dll": {
-            "assemblyVersion": "8.0.14.0",
-            "fileVersion": "8.0.1425.11206"
+            "assemblyVersion": "8.0.19.0",
+            "fileVersion": "8.0.1925.36903"
           }
         }
       },
-      "Microsoft.EntityFrameworkCore.SqlServer/8.0.14": {
+      "Microsoft.EntityFrameworkCore.SqlServer/8.0.19": {
         "dependencies": {
           "Microsoft.Data.SqlClient": "5.1.6",
-          "Microsoft.EntityFrameworkCore.Relational": "8.0.14",
+          "Microsoft.EntityFrameworkCore.Relational": "8.0.19",
           "System.Formats.Asn1": "8.0.2"
         },
         "runtime": {
           "lib/net8.0/Microsoft.EntityFrameworkCore.SqlServer.dll": {
-            "assemblyVersion": "8.0.14.0",
-            "fileVersion": "8.0.1425.11206"
+            "assemblyVersion": "8.0.19.0",
+            "fileVersion": "8.0.1925.36903"
           }
         }
       },
@@ -730,14 +730,14 @@
           }
         }
       },
-      "System.Drawing.Common/8.0.14": {
+      "System.Drawing.Common/8.0.19": {
         "dependencies": {
           "Microsoft.Win32.SystemEvents": "8.0.0"
         },
         "runtime": {
           "lib/net8.0/System.Drawing.Common.dll": {
             "assemblyVersion": "8.0.0.0",
-            "fileVersion": "8.0.1425.11209"
+            "fileVersion": "8.0.1925.36703"
           }
         }
       },
@@ -829,14 +829,14 @@
       "System.Threading.Tasks.Extensions/4.5.4": {},
       "System.Windows.Extensions/6.0.0": {
         "dependencies": {
-          "System.Drawing.Common": "8.0.14"
+          "System.Drawing.Common": "8.0.19"
         }
       },
       "POSBackend.DAL/1.0.0": {
         "dependencies": {
-          "Microsoft.EntityFrameworkCore.SqlServer": "8.0.14",
+          "Microsoft.EntityFrameworkCore.SqlServer": "8.0.19",
           "POSBackend.Model": "1.0.0",
-          "System.Drawing.Common": "8.0.14"
+          "System.Drawing.Common": "8.0.19"
         },
         "runtime": {
           "POSBackend.DAL.dll": {
@@ -847,8 +847,8 @@
       },
       "POSBackend.Model/1.0.0": {
         "dependencies": {
-          "Microsoft.EntityFrameworkCore.SqlServer": "8.0.14",
-          "System.Drawing.Common": "8.0.14"
+          "Microsoft.EntityFrameworkCore.SqlServer": "8.0.19",
+          "System.Drawing.Common": "8.0.19"
         },
         "runtime": {
           "POSBackend.Model.dll": {
@@ -914,40 +914,40 @@
       "path": "microsoft.data.sqlclient.sni.runtime/5.1.1",
       "hashPath": "microsoft.data.sqlclient.sni.runtime.5.1.1.nupkg.sha512"
     },
-    "Microsoft.EntityFrameworkCore/8.0.14": {
+    "Microsoft.EntityFrameworkCore/8.0.19": {
       "type": "package",
       "serviceable": true,
-      "sha512": "sha512-HNn+NPKCm7rR7ij7IRCCbuImaMulFJGloyIbMwi3Ews77RsthM8gxpTZciFLgRYPsBtszKpdIClEwnWmP0vjUg==",
-      "path": "microsoft.entityframeworkcore/8.0.14",
-      "hashPath": "microsoft.entityframeworkcore.8.0.14.nupkg.sha512"
+      "sha512": "sha512-3SL+NNXRE/ucuVO1yKz5l3VY4x3k/ds9OK0rAE2W80V9Imvo3cXFGemYj5nAKnFOERxoRek/vwOPjSVTF4R52w==",
+      "path": "microsoft.entityframeworkcore/8.0.19",
+      "hashPath": "microsoft.entityframeworkcore.8.0.19.nupkg.sha512"
     },
-    "Microsoft.EntityFrameworkCore.Abstractions/8.0.14": {
+    "Microsoft.EntityFrameworkCore.Abstractions/8.0.19": {
       "type": "package",
       "serviceable": true,
-      "sha512": "sha512-Om8/jdWyx9eKFkA1YEgxk13KjGIzA8teLgG7iNFunsI2+MT6UT54Eb4t6oe4NQlIaACj5voUe6szVAQe9GKwDA==",
-      "path": "microsoft.entityframeworkcore.abstractions/8.0.14",
-      "hashPath": "microsoft.entityframeworkcore.abstractions.8.0.14.nupkg.sha512"
+      "sha512": "sha512-3INN1Vti9EUVwb83o5uygUdjHgZCPLmQPpKptixh3hivggUCq1eZmU9QtyxwmK0HA6NXbZ5tyPIHSQNsMPS6aw==",
+      "path": "microsoft.entityframeworkcore.abstractions/8.0.19",
+      "hashPath": "microsoft.entityframeworkcore.abstractions.8.0.19.nupkg.sha512"
     },
-    "Microsoft.EntityFrameworkCore.Analyzers/8.0.14": {
+    "Microsoft.EntityFrameworkCore.Analyzers/8.0.19": {
       "type": "package",
       "serviceable": true,
-      "sha512": "sha512-lzNb3s4t5JDMHGoUFuX/f977dFythvmzGFJxvjlhExdiATPKQfquo2NM0uX8Kelfq04jRljpdbRzcsSsK1q9Tw==",
-      "path": "microsoft.entityframeworkcore.analyzers/8.0.14",
-      "hashPath": "microsoft.entityframeworkcore.analyzers.8.0.14.nupkg.sha512"
+      "sha512": "sha512-OdLnhf4Mjm6OkhraTKK2Ye/Ok6VVcb5p1wtWfZBKKC3lHwQAisnv0BokE6NrLiySdcseVTI/ZAcQ+fGZVAx5Kg==",
+      "path": "microsoft.entityframeworkcore.analyzers/8.0.19",
+      "hashPath": "microsoft.entityframeworkcore.analyzers.8.0.19.nupkg.sha512"
     },
-    "Microsoft.EntityFrameworkCore.Relational/8.0.14": {
+    "Microsoft.EntityFrameworkCore.Relational/8.0.19": {
       "type": "package",
       "serviceable": true,
-      "sha512": "sha512-cPEeIk9nFO3+hxj9tp5AvTFdcTZkVPJCOFUiagbf37KhPGtiG0ZWpl15xOzLYTDAYjF5kxH/jcuDYGlLACJEmA==",
-      "path": "microsoft.entityframeworkcore.relational/8.0.14",
-      "hashPath": "microsoft.entityframeworkcore.relational.8.0.14.nupkg.sha512"
+      "sha512": "sha512-WAjIlb+t/kaCAmq+bwb07lJ0M+mo1QWRhqcqO9MmS4uoE9PihjhsSwe5WwUDa5dGAYpahOAw3msOiyF1MCoO/w==",
+      "path": "microsoft.entityframeworkcore.relational/8.0.19",
+      "hashPath": "microsoft.entityframeworkcore.relational.8.0.19.nupkg.sha512"
     },
-    "Microsoft.EntityFrameworkCore.SqlServer/8.0.14": {
+    "Microsoft.EntityFrameworkCore.SqlServer/8.0.19": {
       "type": "package",
       "serviceable": true,
-      "sha512": "sha512-DFgy5EEdyq00hNC/6GrEANeW0Rvx5qdcF8KZ2ArU7yVTfL5cL8Y2qduXxcuuLgIMdBXlAoG7CorKo5Iqjz0mHQ==",
-      "path": "microsoft.entityframeworkcore.sqlserver/8.0.14",
-      "hashPath": "microsoft.entityframeworkcore.sqlserver.8.0.14.nupkg.sha512"
+      "sha512": "sha512-yJYSeLVOU82WGVXxTSJ0M/sobRXR2DponHT3fy0a26CmFFgGSkt8Nyn8hmHyTRu4QbgbmZhPiUBz884CgrkRuQ==",
+      "path": "microsoft.entityframeworkcore.sqlserver/8.0.19",
+      "hashPath": "microsoft.entityframeworkcore.sqlserver.8.0.19.nupkg.sha512"
     },
     "Microsoft.Extensions.Caching.Abstractions/8.0.0": {
       "type": "package",
@@ -1278,12 +1278,12 @@
       "path": "system.diagnostics.eventlog/8.0.1",
       "hashPath": "system.diagnostics.eventlog.8.0.1.nupkg.sha512"
     },
-    "System.Drawing.Common/8.0.14": {
+    "System.Drawing.Common/8.0.19": {
       "type": "package",
       "serviceable": true,
-      "sha512": "sha512-whZN2v7udKBlZ0h3OVPozq/JJQAmbwoaje4TU0DSt/zMLAn6UgHSOqeVgkcthhrYmbYU+0eBriYQRI6WiH+w5Q==",
-      "path": "system.drawing.common/8.0.14",
-      "hashPath": "system.drawing.common.8.0.14.nupkg.sha512"
+      "sha512": "sha512-UWMINQeKPH2+t/4oNySDVPf7URFMYCRdkAG1s+2nLyHauu4GiyIoBjSHxN3aNULCNmyHB+ByU1TQ1jtMi7G6wQ==",
+      "path": "system.drawing.common/8.0.19",
+      "hashPath": "system.drawing.common.8.0.19.nupkg.sha512"
     },
     "System.Formats.Asn1/8.0.2": {
       "type": "package",
